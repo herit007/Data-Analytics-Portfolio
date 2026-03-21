@@ -68,7 +68,7 @@ This project presents a **Retail Store Sales Analysis Dashboard** built to analy
 If you’d like to connect or see more projects:
 
 📧 Email: gwability@gmail.com
-💼 LinkedIn: [text](https://www.linkedin.com/in/tanna-herit-38b679387/)
+💼 LinkedIn: [Link](https://www.linkedin.com/in/tanna-herit-38b679387/)
 
 ---
 
