@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💳 UPI Payment Apps Analysis Dashboard
 
 ## 📌 Project Overview
@@ -68,4 +67,3 @@ The dataset contains structured transactional data of UPI applications with the 
 This project is created for learning and portfolio purposes to demonstrate data analysis and visualization skills using Power BI.
 =======
 # Data-Analytics-Portfolio
->>>>>>> d561afba269b0a750323d26a0ca401635667eedb
