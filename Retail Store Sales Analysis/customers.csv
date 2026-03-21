@@ -1,0 +1,16 @@
+customer_id,customer_name,signup_date,city
+1,Amit,2023-01-10,Mumbai
+2,Neha,2023-01-15,Delhi
+3,Rohit,2023-02-02,Ahmedabad
+4,Priya,2023-02-18,Pune
+5,Karan,2023-03-01,Bangalore
+6,Sneha,2023-03-20,Chennai
+7,Rahul,2023-04-05,Mumbai
+8,Anjali,2023-04-22,Delhi
+9,Vikas,2023-05-10,Jaipur
+10,Pooja,2023-06-01,Indore
+11,Sahil,2023-07-12,Mumbai
+12,Rina,2023-08-08,Kolkata
+13,Manish,2023-09-15,Pune
+14,Nisha,2023-10-02,Delhi
+15,Arjun,2023-11-20,Bangalore
