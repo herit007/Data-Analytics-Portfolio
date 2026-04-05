@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This repository is a collection of \*\*data analytics and visualization projects\*\* built using tools like Power BI and Excel.
+This repository is a collection of **data analytics and visualization projects** built using tools like Power BI and Excel.
 
 
 
