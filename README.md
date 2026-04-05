@@ -1,8 +1,8 @@
-\# 📊 Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 This repository is a collection of \*\*data analytics and visualization projects\*\* built using tools like Power BI and Excel.
 
@@ -12,79 +12,78 @@ Each project focuses on solving real-world problems by analyzing data and presen
 
 
 
-\---
+---
 
 
 
-\## 🚀 Projects Included
+## 🚀 Projects Included
 
 
 
-\### 💳 UPI Payment Apps Dashboard
+### 💳 UPI Payment Apps Dashboard
 
 Analysis of major UPI applications in India, focusing on transaction trends, market share, and growth patterns.
 
 
 
-\---
+---
 
 
 
-\### 🛒 Retail Store Dashboard
+### 🛒 Retail Store Dashboard
 
 Analysis of retail sales data to evaluate business performance and customer trends.
 
 
 
-\---
+---
 
 
 
-\### 💱 INR Currency Exchange Dashboard
+### 💱 INR Currency Exchange Dashboard
 
 Analysis of INR against global currencies with trend, YoY growth, and insights.
 
 
 
-\---
+---
 
 
 
-\## 🧰 Tools \& Technologies
+## 🧰 Tools & Technologies
 
 
 
-\- Power BI  
+- Power BI  
 
-\- Microsoft Excel  
+- Microsoft Excel  
 
-\- DAX (Data Analysis Expressions)  
+- DAX (Data Analysis Expressions)  
 
-\- Data Visualization  
-
-
-
-\---
+- Data Visualization  
 
 
 
-\## 🎯 Purpose
+---
+
+
+
+## 🎯 Purpose
 
 This repository showcases skills in:
 
-\- Data analysis  
+- Data analysis  
 
-\- Dashboard design  
+- Dashboard design  
 
-\- Insight generation  
-
-
-
-\---
+- Insight generation  
 
 
 
-\## 📬 Connect
+---
+
+
+
+## 📬 Connect
 
 Feel free to explore the projects and share your feedback.
-
